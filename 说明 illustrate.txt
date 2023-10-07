@@ -1,0 +1,9 @@
+原本excel存在一些格式问题这边重新保存为csv档
+通过csv档进行操作
+需要事先安装好环境
+代码中的文档位置需要按需做出调整
+
+Originally there were some formatting issues in excel, so I re-saved it as a csv file.
+Operate through csv files
+The environment needs to be installed in advance
+The location of documentation in the code needs to be adjusted as needed
